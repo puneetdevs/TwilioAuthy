@@ -1,4 +1,4 @@
-# Twilio OPT Test
+# Twilio Auth OPT Test
 
 This package is used to send OTP SMS via Twilio.
 
